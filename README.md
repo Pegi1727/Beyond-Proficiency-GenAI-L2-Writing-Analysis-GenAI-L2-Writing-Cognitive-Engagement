@@ -16,7 +16,7 @@
 
 ## 📌 Graphical Abstract
 
-![Graphical Abstract](figures/Graphic_Abstract.png)
+![Graphic Abstract](figures/Graphic Abstract.png)
 
 ## 🔬 Research Methodology & Design
 
