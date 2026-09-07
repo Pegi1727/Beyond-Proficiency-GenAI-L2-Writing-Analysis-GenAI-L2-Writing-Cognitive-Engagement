@@ -14,11 +14,12 @@
 
 ---
 
-## 📌 Graphical Abstract
 
-![Graphic Abstract](Beyond-Proficiency-GenAI-L2-Writing-Analysis-GenAI-L2-Writing-Cognitive-Engagement/figures
-/graphic abstract.png
-)
+## 📌 Graphic Abstract
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pegi1727/Beyond-Proficiency-GenAI-L2-Writing-Analysis-GenAI-L2-Writing-Cognitive-Engagement/main/figures/graphic%20abstract.png" alt="Graphic Abstract" width="850">
+</p>
 
 ## 🔬 Research Methodology & Design
 
