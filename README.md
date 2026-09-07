@@ -8,7 +8,8 @@
 [![Reproducibility: Gold](https://img.shields.io/badge/Reproducibility-Verified-brightgreen.svg)](#computational-reproducibility)
 
 > **Author:** Pegah Merrikhi  
-> **Affiliation:** Independent Researcher, Applied Linguistics / TESOL  
+> **Affiliation:** Independent Researcher, Applied Linguistics / TESOL/Ph.D
+> Pegah.Merrikhiii@gmail.com
 > **Persistent Archive:** [https://doi.org/10.5281/zenodo.22635467](https://doi.org/10.5281/zenodo.22635467)  
 > **Repository:** [Pegi1727/Beyond-Proficiency-GenAI-L2-Writing-Analysis-GenAI-L2-Writing-Cognitive-Engagement](https://github.com/Pegi1727/Beyond-Proficiency-GenAI-L2-Writing-Analysis-GenAI-L2-Writing-Cognitive-Engagement)
 
