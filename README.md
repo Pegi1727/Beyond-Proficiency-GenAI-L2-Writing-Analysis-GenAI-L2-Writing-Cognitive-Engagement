@@ -16,13 +16,10 @@
 
 ## 📌 Graphical Abstract
 
-<p align="center">
-  <a href="figures/Graphical_Abstract.png" target="_blank">
-    <img src="figures/Graphical_Abstract.png" alt="Graphical Abstract: Cognitive Engagement with Generative AI in L2 Writing" width="850" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-  </a>
-  <br>
-  <em><strong>Figure:</strong> Conceptual architecture of cognitive engagement strands (Linguistic, Strategic, Critical) across the three-phase L2 writing process (Pre-writing, Drafting, Editing) mediated by Generative AI.</em>
-</p>
+## 📌 Graphical Abstract
+
+![Graphical Abstract](figures/Graphical_Abstract.png)
+
 ## 🔬 Research Methodology & Design
 
 ![Research Design and Methodology](figures/methodology.png)
