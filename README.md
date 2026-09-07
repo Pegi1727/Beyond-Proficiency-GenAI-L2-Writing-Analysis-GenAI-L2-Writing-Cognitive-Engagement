@@ -1,2 +1,2 @@
-# Beyond-Proficiency-GenAI-L2-Writing-Analysis-GenAI-L2-Writing-Cognitive-Engagement
+# Beyond-Proficiency-GenAI-L2-Writing-Analysis/GenAI-L2-Writing-Cognitive-Engagement
 Reproducible research on how L2 learners engage cognitively with Generative AI during the writing process. Includes Linear Mixed-Effects Models (LMM), automated data processing pipelines, and interactive visualizations. Supporting the study: “Beyond Proficiency: Unpacking Cognitive Engagement with Generative AI Across the L2 Writing Process”.
