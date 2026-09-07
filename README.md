@@ -37,13 +37,6 @@ While Generative Artificial Intelligence (GenAI) reshapes pedagogical practices 
 
 ---
 
-## 🔬 Research Design & Pipeline
-
-<p align="center">
-  <img src="figures/Figure_1_Research_Design.png" alt="Figure 1: Research Design Workflow" width="90%">
-</p>
-
----
 
 ## 📊 Key Empirical Findings & Results Tables
 
