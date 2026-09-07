@@ -16,7 +16,9 @@
 
 ## 📌 Graphical Abstract
 
-![Graphic Abstract](figures/Graphic Abstract.png)
+![Graphic Abstract](Beyond-Proficiency-GenAI-L2-Writing-Analysis-GenAI-L2-Writing-Cognitive-Engagement/figures
+/graphic abstract.png
+)
 
 ## 🔬 Research Methodology & Design
 
