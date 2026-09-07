@@ -17,10 +17,12 @@
 ## 📌 Graphical Abstract
 
 <p align="center">
-  <img src="figures/Graphical_Abstract.png" alt="Graphical Abstract - Beyond Proficiency" width="95%">
+  <a href="figures/Graphical_Abstract.png" target="_blank">
+    <img src="figures/Graphical_Abstract.png" alt="Graphical Abstract: Cognitive Engagement with Generative AI in L2 Writing" width="850" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  </a>
+  <br>
+  <em><strong>Figure:</strong> Conceptual architecture of cognitive engagement strands (Linguistic, Strategic, Critical) across the three-phase L2 writing process (Pre-writing, Drafting, Editing) mediated by Generative AI.</em>
 </p>
-
-*Figure: Tripartite conceptualization of cognitive engagement (Linguistic, Strategic, Critical) mapped across canonical writing phases (Pre-writing, Drafting, Editing) with Generative AI mediation.*
 
 ---
 
