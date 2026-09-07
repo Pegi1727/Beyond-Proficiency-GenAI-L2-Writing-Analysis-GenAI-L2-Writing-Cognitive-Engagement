@@ -23,6 +23,9 @@
   <br>
   <em><strong>Figure:</strong> Conceptual architecture of cognitive engagement strands (Linguistic, Strategic, Critical) across the three-phase L2 writing process (Pre-writing, Drafting, Editing) mediated by Generative AI.</em>
 </p>
+## 🔬 Research Methodology & Design
+
+![Research Design and Methodology](figures/methodology.png)
 
 ---
 
