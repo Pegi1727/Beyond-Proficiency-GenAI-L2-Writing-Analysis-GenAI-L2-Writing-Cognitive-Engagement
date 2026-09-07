@@ -1,0 +1,901 @@
+ParticipantID,Age,Gender,Major,Proficiency,Stage,Strand,Score,WritingScore
+P001,26,M,English Literature,Upper-Intermediate,Pre,Linguistic,2.71,20.0
+P001,26,M,English Literature,Upper-Intermediate,Pre,Strategic,3.03,20.0
+P001,26,M,English Literature,Upper-Intermediate,Pre,Critical,3.75,20.0
+P001,26,M,English Literature,Upper-Intermediate,Draft,Linguistic,3.52,20.0
+P001,26,M,English Literature,Upper-Intermediate,Draft,Strategic,3.67,20.0
+P001,26,M,English Literature,Upper-Intermediate,Draft,Critical,3.26,20.0
+P001,26,M,English Literature,Upper-Intermediate,Edit,Linguistic,4.12,20.0
+P001,26,M,English Literature,Upper-Intermediate,Edit,Strategic,4.07,20.0
+P001,26,M,English Literature,Upper-Intermediate,Edit,Critical,3.72,20.0
+P002,23,M,Translation Studies,Intermediate,Pre,Linguistic,4.22,19.47
+P002,23,M,Translation Studies,Intermediate,Pre,Strategic,3.76,19.47
+P002,23,M,Translation Studies,Intermediate,Pre,Critical,3.69,19.47
+P002,23,M,Translation Studies,Intermediate,Draft,Linguistic,3.44,19.47
+P002,23,M,Translation Studies,Intermediate,Draft,Strategic,4.39,19.47
+P002,23,M,Translation Studies,Intermediate,Draft,Critical,3.7,19.47
+P002,23,M,Translation Studies,Intermediate,Edit,Linguistic,3.57,19.47
+P002,23,M,Translation Studies,Intermediate,Edit,Strategic,3.6,19.47
+P002,23,M,Translation Studies,Intermediate,Edit,Critical,4.05,19.47
+P003,27,M,TEFL,Advanced,Pre,Linguistic,3.49,19.93
+P003,27,M,TEFL,Advanced,Pre,Strategic,3.34,19.93
+P003,27,M,TEFL,Advanced,Pre,Critical,4.06,19.93
+P003,27,M,TEFL,Advanced,Draft,Linguistic,4.31,19.93
+P003,27,M,TEFL,Advanced,Draft,Strategic,3.69,19.93
+P003,27,M,TEFL,Advanced,Draft,Critical,3.33,19.93
+P003,27,M,TEFL,Advanced,Edit,Linguistic,3.34,19.93
+P003,27,M,TEFL,Advanced,Edit,Strategic,4.07,19.93
+P003,27,M,TEFL,Advanced,Edit,Critical,4.12,19.93
+P004,23,F,TEFL,Intermediate,Pre,Linguistic,3.54,16.45
+P004,23,F,TEFL,Intermediate,Pre,Strategic,3.21,16.45
+P004,23,F,TEFL,Intermediate,Pre,Critical,3.44,16.45
+P004,23,F,TEFL,Intermediate,Draft,Linguistic,3.13,16.45
+P004,23,F,TEFL,Intermediate,Draft,Strategic,3.25,16.45
+P004,23,F,TEFL,Intermediate,Draft,Critical,3.42,16.45
+P004,23,F,TEFL,Intermediate,Edit,Linguistic,2.37,16.45
+P004,23,F,TEFL,Intermediate,Edit,Strategic,2.94,16.45
+P004,23,F,TEFL,Intermediate,Edit,Critical,2.87,16.45
+P005,21,M,Translation Studies,Upper-Intermediate,Pre,Linguistic,2.49,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Pre,Strategic,3.17,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Pre,Critical,3.42,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Draft,Linguistic,3.63,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Draft,Strategic,3.69,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Draft,Critical,3.73,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Edit,Linguistic,3.16,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Edit,Strategic,3.1,17.96
+P005,21,M,Translation Studies,Upper-Intermediate,Edit,Critical,3.76,17.96
+P006,19,F,Translation Studies,Intermediate,Pre,Linguistic,2.81,16.88
+P006,19,F,Translation Studies,Intermediate,Pre,Strategic,3.08,16.88
+P006,19,F,Translation Studies,Intermediate,Pre,Critical,2.52,16.88
+P006,19,F,Translation Studies,Intermediate,Draft,Linguistic,2.81,16.88
+P006,19,F,Translation Studies,Intermediate,Draft,Strategic,3.05,16.88
+P006,19,F,Translation Studies,Intermediate,Draft,Critical,2.58,16.88
+P006,19,F,Translation Studies,Intermediate,Edit,Linguistic,2.96,16.88
+P006,19,F,Translation Studies,Intermediate,Edit,Strategic,2.4,16.88
+P006,19,F,Translation Studies,Intermediate,Edit,Critical,2.55,16.88
+P007,26,F,English Literature,Upper-Intermediate,Pre,Linguistic,3.02,15.05
+P007,26,F,English Literature,Upper-Intermediate,Pre,Strategic,3.01,15.05
+P007,26,F,English Literature,Upper-Intermediate,Pre,Critical,3.12,15.05
+P007,26,F,English Literature,Upper-Intermediate,Draft,Linguistic,2.73,15.05
+P007,26,F,English Literature,Upper-Intermediate,Draft,Strategic,2.57,15.05
+P007,26,F,English Literature,Upper-Intermediate,Draft,Critical,2.74,15.05
+P007,26,F,English Literature,Upper-Intermediate,Edit,Linguistic,1.94,15.05
+P007,26,F,English Literature,Upper-Intermediate,Edit,Strategic,2.06,15.05
+P007,26,F,English Literature,Upper-Intermediate,Edit,Critical,2.12,15.05
+P008,24,F,TEFL,Advanced,Pre,Linguistic,3.56,19.14
+P008,24,F,TEFL,Advanced,Pre,Strategic,4.11,19.14
+P008,24,F,TEFL,Advanced,Pre,Critical,3.27,19.14
+P008,24,F,TEFL,Advanced,Draft,Linguistic,3.64,19.14
+P008,24,F,TEFL,Advanced,Draft,Strategic,3.26,19.14
+P008,24,F,TEFL,Advanced,Draft,Critical,3.57,19.14
+P008,24,F,TEFL,Advanced,Edit,Linguistic,4.16,19.14
+P008,24,F,TEFL,Advanced,Edit,Strategic,2.88,19.14
+P008,24,F,TEFL,Advanced,Edit,Critical,3.96,19.14
+P009,24,M,TEFL,Upper-Intermediate,Pre,Linguistic,3.26,19.26
+P009,24,M,TEFL,Upper-Intermediate,Pre,Strategic,3.15,19.26
+P009,24,M,TEFL,Upper-Intermediate,Pre,Critical,3.94,19.26
+P009,24,M,TEFL,Upper-Intermediate,Draft,Linguistic,3.02,19.26
+P009,24,M,TEFL,Upper-Intermediate,Draft,Strategic,2.63,19.26
+P009,24,M,TEFL,Upper-Intermediate,Draft,Critical,3.23,19.26
+P009,24,M,TEFL,Upper-Intermediate,Edit,Linguistic,3.25,19.26
+P009,24,M,TEFL,Upper-Intermediate,Edit,Strategic,3.82,19.26
+P009,24,M,TEFL,Upper-Intermediate,Edit,Critical,3.56,19.26
+P010,20,F,English Literature,Advanced,Pre,Linguistic,4.18,20.0
+P010,20,F,English Literature,Advanced,Pre,Strategic,3.69,20.0
+P010,20,F,English Literature,Advanced,Pre,Critical,4.7,20.0
+P010,20,F,English Literature,Advanced,Draft,Linguistic,4.27,20.0
+P010,20,F,English Literature,Advanced,Draft,Strategic,3.64,20.0
+P010,20,F,English Literature,Advanced,Draft,Critical,3.87,20.0
+P010,20,F,English Literature,Advanced,Edit,Linguistic,4.53,20.0
+P010,20,F,English Literature,Advanced,Edit,Strategic,4.8,20.0
+P010,20,F,English Literature,Advanced,Edit,Critical,5.0,20.0
+P011,20,F,English Literature,Intermediate,Pre,Linguistic,3.34,17.3
+P011,20,F,English Literature,Intermediate,Pre,Strategic,3.54,17.3
+P011,20,F,English Literature,Intermediate,Pre,Critical,3.44,17.3
+P011,20,F,English Literature,Intermediate,Draft,Linguistic,3.68,17.3
+P011,20,F,English Literature,Intermediate,Draft,Strategic,4.28,17.3
+P011,20,F,English Literature,Intermediate,Draft,Critical,3.83,17.3
+P011,20,F,English Literature,Intermediate,Edit,Linguistic,3.67,17.3
+P011,20,F,English Literature,Intermediate,Edit,Strategic,3.23,17.3
+P011,20,F,English Literature,Intermediate,Edit,Critical,2.91,17.3
+P012,27,M,TEFL,Intermediate,Pre,Linguistic,3.22,19.38
+P012,27,M,TEFL,Intermediate,Pre,Strategic,2.88,19.38
+P012,27,M,TEFL,Intermediate,Pre,Critical,2.99,19.38
+P012,27,M,TEFL,Intermediate,Draft,Linguistic,3.11,19.38
+P012,27,M,TEFL,Intermediate,Draft,Strategic,4.53,19.38
+P012,27,M,TEFL,Intermediate,Draft,Critical,3.06,19.38
+P012,27,M,TEFL,Intermediate,Edit,Linguistic,3.89,19.38
+P012,27,M,TEFL,Intermediate,Edit,Strategic,3.02,19.38
+P012,27,M,TEFL,Intermediate,Edit,Critical,3.93,19.38
+P013,28,M,Translation Studies,Intermediate,Pre,Linguistic,3.18,19.09
+P013,28,M,Translation Studies,Intermediate,Pre,Strategic,2.79,19.09
+P013,28,M,Translation Studies,Intermediate,Pre,Critical,2.77,19.09
+P013,28,M,Translation Studies,Intermediate,Draft,Linguistic,3.49,19.09
+P013,28,M,Translation Studies,Intermediate,Draft,Strategic,4.2,19.09
+P013,28,M,Translation Studies,Intermediate,Draft,Critical,3.49,19.09
+P013,28,M,Translation Studies,Intermediate,Edit,Linguistic,3.35,19.09
+P013,28,M,Translation Studies,Intermediate,Edit,Strategic,3.55,19.09
+P013,28,M,Translation Studies,Intermediate,Edit,Critical,4.06,19.09
+P014,23,F,English Literature,Upper-Intermediate,Pre,Linguistic,3.35,16.46
+P014,23,F,English Literature,Upper-Intermediate,Pre,Strategic,2.64,16.46
+P014,23,F,English Literature,Upper-Intermediate,Pre,Critical,2.57,16.46
+P014,23,F,English Literature,Upper-Intermediate,Draft,Linguistic,4.08,16.46
+P014,23,F,English Literature,Upper-Intermediate,Draft,Strategic,4.12,16.46
+P014,23,F,English Literature,Upper-Intermediate,Draft,Critical,3.16,16.46
+P014,23,F,English Literature,Upper-Intermediate,Edit,Linguistic,3.06,16.46
+P014,23,F,English Literature,Upper-Intermediate,Edit,Strategic,3.98,16.46
+P014,23,F,English Literature,Upper-Intermediate,Edit,Critical,2.7,16.46
+P015,22,F,TEFL,Intermediate,Pre,Linguistic,4.05,17.73
+P015,22,F,TEFL,Intermediate,Pre,Strategic,4.59,17.73
+P015,22,F,TEFL,Intermediate,Pre,Critical,3.93,17.73
+P015,22,F,TEFL,Intermediate,Draft,Linguistic,4.21,17.73
+P015,22,F,TEFL,Intermediate,Draft,Strategic,2.86,17.73
+P015,22,F,TEFL,Intermediate,Draft,Critical,3.86,17.73
+P015,22,F,TEFL,Intermediate,Edit,Linguistic,3.46,17.73
+P015,22,F,TEFL,Intermediate,Edit,Strategic,3.28,17.73
+P015,22,F,TEFL,Intermediate,Edit,Critical,3.45,17.73
+P016,19,F,TEFL,Intermediate,Pre,Linguistic,4.29,19.35
+P016,19,F,TEFL,Intermediate,Pre,Strategic,3.81,19.35
+P016,19,F,TEFL,Intermediate,Pre,Critical,3.89,19.35
+P016,19,F,TEFL,Intermediate,Draft,Linguistic,4.55,19.35
+P016,19,F,TEFL,Intermediate,Draft,Strategic,4.32,19.35
+P016,19,F,TEFL,Intermediate,Draft,Critical,4.72,19.35
+P016,19,F,TEFL,Intermediate,Edit,Linguistic,3.97,19.35
+P016,19,F,TEFL,Intermediate,Edit,Strategic,3.7,19.35
+P016,19,F,TEFL,Intermediate,Edit,Critical,3.94,19.35
+P017,28,F,Translation Studies,Upper-Intermediate,Pre,Linguistic,4.86,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Pre,Strategic,4.54,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Pre,Critical,3.18,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Draft,Linguistic,3.46,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Draft,Strategic,2.87,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Draft,Critical,3.31,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Edit,Linguistic,3.76,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Edit,Strategic,4.21,17.43
+P017,28,F,Translation Studies,Upper-Intermediate,Edit,Critical,3.24,17.43
+P018,22,M,English Literature,Advanced,Pre,Linguistic,3.32,20.0
+P018,22,M,English Literature,Advanced,Pre,Strategic,1.95,20.0
+P018,22,M,English Literature,Advanced,Pre,Critical,1.77,20.0
+P018,22,M,English Literature,Advanced,Draft,Linguistic,2.16,20.0
+P018,22,M,English Literature,Advanced,Draft,Strategic,1.33,20.0
+P018,22,M,English Literature,Advanced,Draft,Critical,1.48,20.0
+P018,22,M,English Literature,Advanced,Edit,Linguistic,3.28,20.0
+P018,22,M,English Literature,Advanced,Edit,Strategic,1.57,20.0
+P018,22,M,English Literature,Advanced,Edit,Critical,1.66,20.0
+P019,28,M,Translation Studies,Intermediate,Pre,Linguistic,5.0,19.32
+P019,28,M,Translation Studies,Intermediate,Pre,Strategic,4.75,19.32
+P019,28,M,Translation Studies,Intermediate,Pre,Critical,5.0,19.32
+P019,28,M,Translation Studies,Intermediate,Draft,Linguistic,5.0,19.32
+P019,28,M,Translation Studies,Intermediate,Draft,Strategic,5.0,19.32
+P019,28,M,Translation Studies,Intermediate,Draft,Critical,5.0,19.32
+P019,28,M,Translation Studies,Intermediate,Edit,Linguistic,5.0,19.32
+P019,28,M,Translation Studies,Intermediate,Edit,Strategic,4.56,19.32
+P019,28,M,Translation Studies,Intermediate,Edit,Critical,5.0,19.32
+P020,28,M,Translation Studies,Upper-Intermediate,Pre,Linguistic,3.72,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Pre,Strategic,3.82,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Pre,Critical,3.67,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Draft,Linguistic,3.64,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Draft,Strategic,3.28,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Draft,Critical,3.8,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Edit,Linguistic,3.59,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Edit,Strategic,4.69,20.0
+P020,28,M,Translation Studies,Upper-Intermediate,Edit,Critical,4.43,20.0
+P021,19,F,English Literature,Intermediate,Pre,Linguistic,3.64,17.92
+P021,19,F,English Literature,Intermediate,Pre,Strategic,3.17,17.92
+P021,19,F,English Literature,Intermediate,Pre,Critical,3.28,17.92
+P021,19,F,English Literature,Intermediate,Draft,Linguistic,2.17,17.92
+P021,19,F,English Literature,Intermediate,Draft,Strategic,3.51,17.92
+P021,19,F,English Literature,Intermediate,Draft,Critical,3.27,17.92
+P021,19,F,English Literature,Intermediate,Edit,Linguistic,2.49,17.92
+P021,19,F,English Literature,Intermediate,Edit,Strategic,2.81,17.92
+P021,19,F,English Literature,Intermediate,Edit,Critical,3.17,17.92
+P022,27,F,Translation Studies,Upper-Intermediate,Pre,Linguistic,4.06,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Pre,Strategic,2.04,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Pre,Critical,3.21,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Draft,Linguistic,3.41,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Draft,Strategic,3.47,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Draft,Critical,3.14,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Edit,Linguistic,2.45,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Edit,Strategic,3.49,15.3
+P022,27,F,Translation Studies,Upper-Intermediate,Edit,Critical,4.19,15.3
+P023,27,F,Translation Studies,Upper-Intermediate,Pre,Linguistic,3.85,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Pre,Strategic,4.67,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Pre,Critical,4.31,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Draft,Linguistic,4.88,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Draft,Strategic,4.61,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Draft,Critical,4.24,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Edit,Linguistic,4.89,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Edit,Strategic,4.24,18.93
+P023,27,F,Translation Studies,Upper-Intermediate,Edit,Critical,4.43,18.93
+P024,19,M,Translation Studies,Intermediate,Pre,Linguistic,3.93,17.03
+P024,19,M,Translation Studies,Intermediate,Pre,Strategic,3.44,17.03
+P024,19,M,Translation Studies,Intermediate,Pre,Critical,4.13,17.03
+P024,19,M,Translation Studies,Intermediate,Draft,Linguistic,3.92,17.03
+P024,19,M,Translation Studies,Intermediate,Draft,Strategic,4.45,17.03
+P024,19,M,Translation Studies,Intermediate,Draft,Critical,3.91,17.03
+P024,19,M,Translation Studies,Intermediate,Edit,Linguistic,2.75,17.03
+P024,19,M,Translation Studies,Intermediate,Edit,Strategic,3.51,17.03
+P024,19,M,Translation Studies,Intermediate,Edit,Critical,2.95,17.03
+P025,23,M,TEFL,Advanced,Pre,Linguistic,4.42,19.92
+P025,23,M,TEFL,Advanced,Pre,Strategic,3.8,19.92
+P025,23,M,TEFL,Advanced,Pre,Critical,4.07,19.92
+P025,23,M,TEFL,Advanced,Draft,Linguistic,4.56,19.92
+P025,23,M,TEFL,Advanced,Draft,Strategic,4.98,19.92
+P025,23,M,TEFL,Advanced,Draft,Critical,4.71,19.92
+P025,23,M,TEFL,Advanced,Edit,Linguistic,3.26,19.92
+P025,23,M,TEFL,Advanced,Edit,Strategic,4.56,19.92
+P025,23,M,TEFL,Advanced,Edit,Critical,4.44,19.92
+P026,21,M,English Literature,Intermediate,Pre,Linguistic,3.68,20.0
+P026,21,M,English Literature,Intermediate,Pre,Strategic,5.0,20.0
+P026,21,M,English Literature,Intermediate,Pre,Critical,4.65,20.0
+P026,21,M,English Literature,Intermediate,Draft,Linguistic,4.89,20.0
+P026,21,M,English Literature,Intermediate,Draft,Strategic,4.18,20.0
+P026,21,M,English Literature,Intermediate,Draft,Critical,4.88,20.0
+P026,21,M,English Literature,Intermediate,Edit,Linguistic,5.0,20.0
+P026,21,M,English Literature,Intermediate,Edit,Strategic,4.59,20.0
+P026,21,M,English Literature,Intermediate,Edit,Critical,4.59,20.0
+P027,24,F,Translation Studies,Intermediate,Pre,Linguistic,3.48,20.0
+P027,24,F,Translation Studies,Intermediate,Pre,Strategic,2.45,20.0
+P027,24,F,Translation Studies,Intermediate,Pre,Critical,2.92,20.0
+P027,24,F,Translation Studies,Intermediate,Draft,Linguistic,3.72,20.0
+P027,24,F,Translation Studies,Intermediate,Draft,Strategic,2.61,20.0
+P027,24,F,Translation Studies,Intermediate,Draft,Critical,2.57,20.0
+P027,24,F,Translation Studies,Intermediate,Edit,Linguistic,3.08,20.0
+P027,24,F,Translation Studies,Intermediate,Edit,Strategic,3.4,20.0
+P027,24,F,Translation Studies,Intermediate,Edit,Critical,2.99,20.0
+P028,28,F,TEFL,Advanced,Pre,Linguistic,3.91,16.68
+P028,28,F,TEFL,Advanced,Pre,Strategic,3.01,16.68
+P028,28,F,TEFL,Advanced,Pre,Critical,4.82,16.68
+P028,28,F,TEFL,Advanced,Draft,Linguistic,3.79,16.68
+P028,28,F,TEFL,Advanced,Draft,Strategic,4.07,16.68
+P028,28,F,TEFL,Advanced,Draft,Critical,4.67,16.68
+P028,28,F,TEFL,Advanced,Edit,Linguistic,3.21,16.68
+P028,28,F,TEFL,Advanced,Edit,Strategic,3.39,16.68
+P028,28,F,TEFL,Advanced,Edit,Critical,3.21,16.68
+P029,24,M,TEFL,Intermediate,Pre,Linguistic,2.61,17.61
+P029,24,M,TEFL,Intermediate,Pre,Strategic,3.79,17.61
+P029,24,M,TEFL,Intermediate,Pre,Critical,3.53,17.61
+P029,24,M,TEFL,Intermediate,Draft,Linguistic,3.99,17.61
+P029,24,M,TEFL,Intermediate,Draft,Strategic,4.11,17.61
+P029,24,M,TEFL,Intermediate,Draft,Critical,3.83,17.61
+P029,24,M,TEFL,Intermediate,Edit,Linguistic,4.14,17.61
+P029,24,M,TEFL,Intermediate,Edit,Strategic,3.88,17.61
+P029,24,M,TEFL,Intermediate,Edit,Critical,4.03,17.61
+P030,28,F,TEFL,Advanced,Pre,Linguistic,3.65,19.14
+P030,28,F,TEFL,Advanced,Pre,Strategic,3.26,19.14
+P030,28,F,TEFL,Advanced,Pre,Critical,3.33,19.14
+P030,28,F,TEFL,Advanced,Draft,Linguistic,3.81,19.14
+P030,28,F,TEFL,Advanced,Draft,Strategic,2.4,19.14
+P030,28,F,TEFL,Advanced,Draft,Critical,2.74,19.14
+P030,28,F,TEFL,Advanced,Edit,Linguistic,2.65,19.14
+P030,28,F,TEFL,Advanced,Edit,Strategic,2.23,19.14
+P030,28,F,TEFL,Advanced,Edit,Critical,3.05,19.14
+P031,20,M,TEFL,Advanced,Pre,Linguistic,3.29,20.0
+P031,20,M,TEFL,Advanced,Pre,Strategic,4.01,20.0
+P031,20,M,TEFL,Advanced,Pre,Critical,3.38,20.0
+P031,20,M,TEFL,Advanced,Draft,Linguistic,2.91,20.0
+P031,20,M,TEFL,Advanced,Draft,Strategic,3.03,20.0
+P031,20,M,TEFL,Advanced,Draft,Critical,2.59,20.0
+P031,20,M,TEFL,Advanced,Edit,Linguistic,2.89,20.0
+P031,20,M,TEFL,Advanced,Edit,Strategic,3.15,20.0
+P031,20,M,TEFL,Advanced,Edit,Critical,3.73,20.0
+P032,24,M,Translation Studies,Intermediate,Pre,Linguistic,2.61,18.26
+P032,24,M,Translation Studies,Intermediate,Pre,Strategic,1.76,18.26
+P032,24,M,Translation Studies,Intermediate,Pre,Critical,3.13,18.26
+P032,24,M,Translation Studies,Intermediate,Draft,Linguistic,2.37,18.26
+P032,24,M,Translation Studies,Intermediate,Draft,Strategic,2.4,18.26
+P032,24,M,Translation Studies,Intermediate,Draft,Critical,2.14,18.26
+P032,24,M,Translation Studies,Intermediate,Edit,Linguistic,2.34,18.26
+P032,24,M,Translation Studies,Intermediate,Edit,Strategic,2.88,18.26
+P032,24,M,Translation Studies,Intermediate,Edit,Critical,2.58,18.26
+P033,21,F,TEFL,Upper-Intermediate,Pre,Linguistic,4.25,19.72
+P033,21,F,TEFL,Upper-Intermediate,Pre,Strategic,3.55,19.72
+P033,21,F,TEFL,Upper-Intermediate,Pre,Critical,4.27,19.72
+P033,21,F,TEFL,Upper-Intermediate,Draft,Linguistic,3.91,19.72
+P033,21,F,TEFL,Upper-Intermediate,Draft,Strategic,3.65,19.72
+P033,21,F,TEFL,Upper-Intermediate,Draft,Critical,3.89,19.72
+P033,21,F,TEFL,Upper-Intermediate,Edit,Linguistic,4.69,19.72
+P033,21,F,TEFL,Upper-Intermediate,Edit,Strategic,4.76,19.72
+P033,21,F,TEFL,Upper-Intermediate,Edit,Critical,3.75,19.72
+P034,25,M,English Literature,Upper-Intermediate,Pre,Linguistic,4.3,17.65
+P034,25,M,English Literature,Upper-Intermediate,Pre,Strategic,3.73,17.65
+P034,25,M,English Literature,Upper-Intermediate,Pre,Critical,3.35,17.65
+P034,25,M,English Literature,Upper-Intermediate,Draft,Linguistic,3.11,17.65
+P034,25,M,English Literature,Upper-Intermediate,Draft,Strategic,3.59,17.65
+P034,25,M,English Literature,Upper-Intermediate,Draft,Critical,3.92,17.65
+P034,25,M,English Literature,Upper-Intermediate,Edit,Linguistic,4.0,17.65
+P034,25,M,English Literature,Upper-Intermediate,Edit,Strategic,5.0,17.65
+P034,25,M,English Literature,Upper-Intermediate,Edit,Critical,4.7,17.65
+P035,25,M,TEFL,Upper-Intermediate,Pre,Linguistic,4.02,20.0
+P035,25,M,TEFL,Upper-Intermediate,Pre,Strategic,3.54,20.0
+P035,25,M,TEFL,Upper-Intermediate,Pre,Critical,4.24,20.0
+P035,25,M,TEFL,Upper-Intermediate,Draft,Linguistic,3.14,20.0
+P035,25,M,TEFL,Upper-Intermediate,Draft,Strategic,3.71,20.0
+P035,25,M,TEFL,Upper-Intermediate,Draft,Critical,5.0,20.0
+P035,25,M,TEFL,Upper-Intermediate,Edit,Linguistic,3.82,20.0
+P035,25,M,TEFL,Upper-Intermediate,Edit,Strategic,4.43,20.0
+P035,25,M,TEFL,Upper-Intermediate,Edit,Critical,3.75,20.0
+P036,27,M,English Literature,Intermediate,Pre,Linguistic,3.04,17.6
+P036,27,M,English Literature,Intermediate,Pre,Strategic,3.8,17.6
+P036,27,M,English Literature,Intermediate,Pre,Critical,4.01,17.6
+P036,27,M,English Literature,Intermediate,Draft,Linguistic,3.65,17.6
+P036,27,M,English Literature,Intermediate,Draft,Strategic,3.32,17.6
+P036,27,M,English Literature,Intermediate,Draft,Critical,3.69,17.6
+P036,27,M,English Literature,Intermediate,Edit,Linguistic,3.31,17.6
+P036,27,M,English Literature,Intermediate,Edit,Strategic,3.93,17.6
+P036,27,M,English Literature,Intermediate,Edit,Critical,2.55,17.6
+P037,26,F,TEFL,Intermediate,Pre,Linguistic,1.95,16.44
+P037,26,F,TEFL,Intermediate,Pre,Strategic,1.55,16.44
+P037,26,F,TEFL,Intermediate,Pre,Critical,1.0,16.44
+P037,26,F,TEFL,Intermediate,Draft,Linguistic,2.03,16.44
+P037,26,F,TEFL,Intermediate,Draft,Strategic,3.52,16.44
+P037,26,F,TEFL,Intermediate,Draft,Critical,2.52,16.44
+P037,26,F,TEFL,Intermediate,Edit,Linguistic,2.03,16.44
+P037,26,F,TEFL,Intermediate,Edit,Strategic,2.54,16.44
+P037,26,F,TEFL,Intermediate,Edit,Critical,1.53,16.44
+P038,22,F,Translation Studies,Upper-Intermediate,Pre,Linguistic,3.89,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Pre,Strategic,3.22,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Pre,Critical,4.01,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Draft,Linguistic,4.37,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Draft,Strategic,3.07,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Draft,Critical,3.12,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Edit,Linguistic,4.23,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Edit,Strategic,3.46,18.09
+P038,22,F,Translation Studies,Upper-Intermediate,Edit,Critical,4.26,18.09
+P039,28,F,TEFL,Upper-Intermediate,Pre,Linguistic,4.19,17.51
+P039,28,F,TEFL,Upper-Intermediate,Pre,Strategic,3.9,17.51
+P039,28,F,TEFL,Upper-Intermediate,Pre,Critical,4.15,17.51
+P039,28,F,TEFL,Upper-Intermediate,Draft,Linguistic,4.6,17.51
+P039,28,F,TEFL,Upper-Intermediate,Draft,Strategic,3.59,17.51
+P039,28,F,TEFL,Upper-Intermediate,Draft,Critical,4.69,17.51
+P039,28,F,TEFL,Upper-Intermediate,Edit,Linguistic,4.1,17.51
+P039,28,F,TEFL,Upper-Intermediate,Edit,Strategic,4.95,17.51
+P039,28,F,TEFL,Upper-Intermediate,Edit,Critical,3.18,17.51
+P040,28,M,TEFL,Upper-Intermediate,Pre,Linguistic,2.36,20.0
+P040,28,M,TEFL,Upper-Intermediate,Pre,Strategic,2.41,20.0
+P040,28,M,TEFL,Upper-Intermediate,Pre,Critical,2.59,20.0
+P040,28,M,TEFL,Upper-Intermediate,Draft,Linguistic,1.98,20.0
+P040,28,M,TEFL,Upper-Intermediate,Draft,Strategic,2.84,20.0
+P040,28,M,TEFL,Upper-Intermediate,Draft,Critical,2.82,20.0
+P040,28,M,TEFL,Upper-Intermediate,Edit,Linguistic,2.68,20.0
+P040,28,M,TEFL,Upper-Intermediate,Edit,Strategic,2.77,20.0
+P040,28,M,TEFL,Upper-Intermediate,Edit,Critical,2.64,20.0
+P041,23,M,TEFL,Advanced,Pre,Linguistic,2.83,17.38
+P041,23,M,TEFL,Advanced,Pre,Strategic,3.0,17.38
+P041,23,M,TEFL,Advanced,Pre,Critical,3.41,17.38
+P041,23,M,TEFL,Advanced,Draft,Linguistic,3.61,17.38
+P041,23,M,TEFL,Advanced,Draft,Strategic,3.47,17.38
+P041,23,M,TEFL,Advanced,Draft,Critical,3.06,17.38
+P041,23,M,TEFL,Advanced,Edit,Linguistic,3.9,17.38
+P041,23,M,TEFL,Advanced,Edit,Strategic,3.82,17.38
+P041,23,M,TEFL,Advanced,Edit,Critical,3.37,17.38
+P042,23,M,Translation Studies,Intermediate,Pre,Linguistic,3.96,16.14
+P042,23,M,Translation Studies,Intermediate,Pre,Strategic,3.38,16.14
+P042,23,M,Translation Studies,Intermediate,Pre,Critical,3.92,16.14
+P042,23,M,Translation Studies,Intermediate,Draft,Linguistic,3.1,16.14
+P042,23,M,Translation Studies,Intermediate,Draft,Strategic,4.5,16.14
+P042,23,M,Translation Studies,Intermediate,Draft,Critical,4.45,16.14
+P042,23,M,Translation Studies,Intermediate,Edit,Linguistic,3.7,16.14
+P042,23,M,Translation Studies,Intermediate,Edit,Strategic,4.01,16.14
+P042,23,M,Translation Studies,Intermediate,Edit,Critical,2.62,16.14
+P043,24,F,TEFL,Upper-Intermediate,Pre,Linguistic,2.74,17.29
+P043,24,F,TEFL,Upper-Intermediate,Pre,Strategic,2.91,17.29
+P043,24,F,TEFL,Upper-Intermediate,Pre,Critical,3.44,17.29
+P043,24,F,TEFL,Upper-Intermediate,Draft,Linguistic,4.13,17.29
+P043,24,F,TEFL,Upper-Intermediate,Draft,Strategic,2.71,17.29
+P043,24,F,TEFL,Upper-Intermediate,Draft,Critical,3.45,17.29
+P043,24,F,TEFL,Upper-Intermediate,Edit,Linguistic,4.23,17.29
+P043,24,F,TEFL,Upper-Intermediate,Edit,Strategic,2.5,17.29
+P043,24,F,TEFL,Upper-Intermediate,Edit,Critical,2.68,17.29
+P044,28,F,TEFL,Advanced,Pre,Linguistic,3.45,19.19
+P044,28,F,TEFL,Advanced,Pre,Strategic,2.9,19.19
+P044,28,F,TEFL,Advanced,Pre,Critical,3.82,19.19
+P044,28,F,TEFL,Advanced,Draft,Linguistic,2.87,19.19
+P044,28,F,TEFL,Advanced,Draft,Strategic,2.87,19.19
+P044,28,F,TEFL,Advanced,Draft,Critical,3.46,19.19
+P044,28,F,TEFL,Advanced,Edit,Linguistic,3.57,19.19
+P044,28,F,TEFL,Advanced,Edit,Strategic,3.41,19.19
+P044,28,F,TEFL,Advanced,Edit,Critical,2.34,19.19
+P045,29,M,TEFL,Upper-Intermediate,Pre,Linguistic,2.48,16.62
+P045,29,M,TEFL,Upper-Intermediate,Pre,Strategic,2.24,16.62
+P045,29,M,TEFL,Upper-Intermediate,Pre,Critical,3.24,16.62
+P045,29,M,TEFL,Upper-Intermediate,Draft,Linguistic,3.0,16.62
+P045,29,M,TEFL,Upper-Intermediate,Draft,Strategic,2.57,16.62
+P045,29,M,TEFL,Upper-Intermediate,Draft,Critical,3.61,16.62
+P045,29,M,TEFL,Upper-Intermediate,Edit,Linguistic,2.66,16.62
+P045,29,M,TEFL,Upper-Intermediate,Edit,Strategic,2.9,16.62
+P045,29,M,TEFL,Upper-Intermediate,Edit,Critical,3.01,16.62
+P046,27,M,English Literature,Upper-Intermediate,Pre,Linguistic,3.26,16.42
+P046,27,M,English Literature,Upper-Intermediate,Pre,Strategic,2.58,16.42
+P046,27,M,English Literature,Upper-Intermediate,Pre,Critical,4.59,16.42
+P046,27,M,English Literature,Upper-Intermediate,Draft,Linguistic,5.0,16.42
+P046,27,M,English Literature,Upper-Intermediate,Draft,Strategic,3.58,16.42
+P046,27,M,English Literature,Upper-Intermediate,Draft,Critical,2.81,16.42
+P046,27,M,English Literature,Upper-Intermediate,Edit,Linguistic,3.63,16.42
+P046,27,M,English Literature,Upper-Intermediate,Edit,Strategic,3.64,16.42
+P046,27,M,English Literature,Upper-Intermediate,Edit,Critical,3.69,16.42
+P047,26,M,English Literature,Advanced,Pre,Linguistic,4.87,18.77
+P047,26,M,English Literature,Advanced,Pre,Strategic,3.93,18.77
+P047,26,M,English Literature,Advanced,Pre,Critical,3.68,18.77
+P047,26,M,English Literature,Advanced,Draft,Linguistic,3.78,18.77
+P047,26,M,English Literature,Advanced,Draft,Strategic,4.16,18.77
+P047,26,M,English Literature,Advanced,Draft,Critical,2.98,18.77
+P047,26,M,English Literature,Advanced,Edit,Linguistic,3.93,18.77
+P047,26,M,English Literature,Advanced,Edit,Strategic,3.65,18.77
+P047,26,M,English Literature,Advanced,Edit,Critical,4.77,18.77
+P048,19,F,Translation Studies,Intermediate,Pre,Linguistic,4.07,15.87
+P048,19,F,Translation Studies,Intermediate,Pre,Strategic,4.59,15.87
+P048,19,F,Translation Studies,Intermediate,Pre,Critical,5.0,15.87
+P048,19,F,Translation Studies,Intermediate,Draft,Linguistic,4.34,15.87
+P048,19,F,Translation Studies,Intermediate,Draft,Strategic,3.65,15.87
+P048,19,F,Translation Studies,Intermediate,Draft,Critical,4.49,15.87
+P048,19,F,Translation Studies,Intermediate,Edit,Linguistic,4.05,15.87
+P048,19,F,Translation Studies,Intermediate,Edit,Strategic,4.33,15.87
+P048,19,F,Translation Studies,Intermediate,Edit,Critical,4.46,15.87
+P049,28,F,TEFL,Upper-Intermediate,Pre,Linguistic,2.92,17.73
+P049,28,F,TEFL,Upper-Intermediate,Pre,Strategic,2.67,17.73
+P049,28,F,TEFL,Upper-Intermediate,Pre,Critical,2.17,17.73
+P049,28,F,TEFL,Upper-Intermediate,Draft,Linguistic,1.87,17.73
+P049,28,F,TEFL,Upper-Intermediate,Draft,Strategic,2.95,17.73
+P049,28,F,TEFL,Upper-Intermediate,Draft,Critical,2.71,17.73
+P049,28,F,TEFL,Upper-Intermediate,Edit,Linguistic,3.72,17.73
+P049,28,F,TEFL,Upper-Intermediate,Edit,Strategic,2.74,17.73
+P049,28,F,TEFL,Upper-Intermediate,Edit,Critical,2.72,17.73
+P050,28,M,English Literature,Upper-Intermediate,Pre,Linguistic,3.77,14.66
+P050,28,M,English Literature,Upper-Intermediate,Pre,Strategic,3.75,14.66
+P050,28,M,English Literature,Upper-Intermediate,Pre,Critical,4.39,14.66
+P050,28,M,English Literature,Upper-Intermediate,Draft,Linguistic,4.74,14.66
+P050,28,M,English Literature,Upper-Intermediate,Draft,Strategic,3.76,14.66
+P050,28,M,English Literature,Upper-Intermediate,Draft,Critical,3.78,14.66
+P050,28,M,English Literature,Upper-Intermediate,Edit,Linguistic,4.15,14.66
+P050,28,M,English Literature,Upper-Intermediate,Edit,Strategic,3.87,14.66
+P050,28,M,English Literature,Upper-Intermediate,Edit,Critical,4.47,14.66
+P051,22,F,Translation Studies,Intermediate,Pre,Linguistic,2.55,18.98
+P051,22,F,Translation Studies,Intermediate,Pre,Strategic,2.9,18.98
+P051,22,F,Translation Studies,Intermediate,Pre,Critical,3.56,18.98
+P051,22,F,Translation Studies,Intermediate,Draft,Linguistic,2.88,18.98
+P051,22,F,Translation Studies,Intermediate,Draft,Strategic,2.49,18.98
+P051,22,F,Translation Studies,Intermediate,Draft,Critical,2.98,18.98
+P051,22,F,Translation Studies,Intermediate,Edit,Linguistic,3.53,18.98
+P051,22,F,Translation Studies,Intermediate,Edit,Strategic,2.52,18.98
+P051,22,F,Translation Studies,Intermediate,Edit,Critical,2.55,18.98
+P052,21,F,English Literature,Intermediate,Pre,Linguistic,2.85,20.0
+P052,21,F,English Literature,Intermediate,Pre,Strategic,3.36,20.0
+P052,21,F,English Literature,Intermediate,Pre,Critical,3.26,20.0
+P052,21,F,English Literature,Intermediate,Draft,Linguistic,2.76,20.0
+P052,21,F,English Literature,Intermediate,Draft,Strategic,2.59,20.0
+P052,21,F,English Literature,Intermediate,Draft,Critical,3.71,20.0
+P052,21,F,English Literature,Intermediate,Edit,Linguistic,3.19,20.0
+P052,21,F,English Literature,Intermediate,Edit,Strategic,2.86,20.0
+P052,21,F,English Literature,Intermediate,Edit,Critical,3.32,20.0
+P053,29,M,English Literature,Intermediate,Pre,Linguistic,2.27,17.56
+P053,29,M,English Literature,Intermediate,Pre,Strategic,2.52,17.56
+P053,29,M,English Literature,Intermediate,Pre,Critical,1.56,17.56
+P053,29,M,English Literature,Intermediate,Draft,Linguistic,1.57,17.56
+P053,29,M,English Literature,Intermediate,Draft,Strategic,2.36,17.56
+P053,29,M,English Literature,Intermediate,Draft,Critical,2.16,17.56
+P053,29,M,English Literature,Intermediate,Edit,Linguistic,2.41,17.56
+P053,29,M,English Literature,Intermediate,Edit,Strategic,2.04,17.56
+P053,29,M,English Literature,Intermediate,Edit,Critical,2.27,17.56
+P054,27,F,Translation Studies,Upper-Intermediate,Pre,Linguistic,4.47,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Pre,Strategic,4.56,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Pre,Critical,3.46,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Draft,Linguistic,3.04,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Draft,Strategic,4.02,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Draft,Critical,4.43,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Edit,Linguistic,4.87,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Edit,Strategic,4.22,17.5
+P054,27,F,Translation Studies,Upper-Intermediate,Edit,Critical,3.78,17.5
+P055,21,F,TEFL,Upper-Intermediate,Pre,Linguistic,4.4,20.0
+P055,21,F,TEFL,Upper-Intermediate,Pre,Strategic,4.07,20.0
+P055,21,F,TEFL,Upper-Intermediate,Pre,Critical,3.05,20.0
+P055,21,F,TEFL,Upper-Intermediate,Draft,Linguistic,3.93,20.0
+P055,21,F,TEFL,Upper-Intermediate,Draft,Strategic,3.83,20.0
+P055,21,F,TEFL,Upper-Intermediate,Draft,Critical,3.73,20.0
+P055,21,F,TEFL,Upper-Intermediate,Edit,Linguistic,4.13,20.0
+P055,21,F,TEFL,Upper-Intermediate,Edit,Strategic,3.82,20.0
+P055,21,F,TEFL,Upper-Intermediate,Edit,Critical,3.88,20.0
+P056,27,F,English Literature,Intermediate,Pre,Linguistic,3.06,19.35
+P056,27,F,English Literature,Intermediate,Pre,Strategic,4.55,19.35
+P056,27,F,English Literature,Intermediate,Pre,Critical,4.57,19.35
+P056,27,F,English Literature,Intermediate,Draft,Linguistic,4.38,19.35
+P056,27,F,English Literature,Intermediate,Draft,Strategic,3.83,19.35
+P056,27,F,English Literature,Intermediate,Draft,Critical,4.38,19.35
+P056,27,F,English Literature,Intermediate,Edit,Linguistic,3.71,19.35
+P056,27,F,English Literature,Intermediate,Edit,Strategic,3.81,19.35
+P056,27,F,English Literature,Intermediate,Edit,Critical,3.16,19.35
+P057,20,F,TEFL,Intermediate,Pre,Linguistic,4.44,15.71
+P057,20,F,TEFL,Intermediate,Pre,Strategic,3.98,15.71
+P057,20,F,TEFL,Intermediate,Pre,Critical,3.54,15.71
+P057,20,F,TEFL,Intermediate,Draft,Linguistic,3.66,15.71
+P057,20,F,TEFL,Intermediate,Draft,Strategic,3.56,15.71
+P057,20,F,TEFL,Intermediate,Draft,Critical,3.43,15.71
+P057,20,F,TEFL,Intermediate,Edit,Linguistic,3.0,15.71
+P057,20,F,TEFL,Intermediate,Edit,Strategic,3.46,15.71
+P057,20,F,TEFL,Intermediate,Edit,Critical,3.16,15.71
+P058,22,M,English Literature,Intermediate,Pre,Linguistic,4.3,20.0
+P058,22,M,English Literature,Intermediate,Pre,Strategic,4.34,20.0
+P058,22,M,English Literature,Intermediate,Pre,Critical,4.32,20.0
+P058,22,M,English Literature,Intermediate,Draft,Linguistic,3.83,20.0
+P058,22,M,English Literature,Intermediate,Draft,Strategic,3.38,20.0
+P058,22,M,English Literature,Intermediate,Draft,Critical,3.26,20.0
+P058,22,M,English Literature,Intermediate,Edit,Linguistic,3.98,20.0
+P058,22,M,English Literature,Intermediate,Edit,Strategic,4.0,20.0
+P058,22,M,English Literature,Intermediate,Edit,Critical,4.45,20.0
+P059,26,F,TEFL,Upper-Intermediate,Pre,Linguistic,3.32,16.16
+P059,26,F,TEFL,Upper-Intermediate,Pre,Strategic,3.13,16.16
+P059,26,F,TEFL,Upper-Intermediate,Pre,Critical,3.55,16.16
+P059,26,F,TEFL,Upper-Intermediate,Draft,Linguistic,3.17,16.16
+P059,26,F,TEFL,Upper-Intermediate,Draft,Strategic,3.11,16.16
+P059,26,F,TEFL,Upper-Intermediate,Draft,Critical,3.58,16.16
+P059,26,F,TEFL,Upper-Intermediate,Edit,Linguistic,3.22,16.16
+P059,26,F,TEFL,Upper-Intermediate,Edit,Strategic,3.54,16.16
+P059,26,F,TEFL,Upper-Intermediate,Edit,Critical,3.56,16.16
+P060,26,M,Translation Studies,Advanced,Pre,Linguistic,2.63,20.0
+P060,26,M,Translation Studies,Advanced,Pre,Strategic,2.15,20.0
+P060,26,M,Translation Studies,Advanced,Pre,Critical,2.28,20.0
+P060,26,M,Translation Studies,Advanced,Draft,Linguistic,3.23,20.0
+P060,26,M,Translation Studies,Advanced,Draft,Strategic,3.23,20.0
+P060,26,M,Translation Studies,Advanced,Draft,Critical,3.15,20.0
+P060,26,M,Translation Studies,Advanced,Edit,Linguistic,3.82,20.0
+P060,26,M,Translation Studies,Advanced,Edit,Strategic,1.87,20.0
+P060,26,M,Translation Studies,Advanced,Edit,Critical,3.41,20.0
+P061,27,M,TEFL,Upper-Intermediate,Pre,Linguistic,2.66,18.85
+P061,27,M,TEFL,Upper-Intermediate,Pre,Strategic,3.54,18.85
+P061,27,M,TEFL,Upper-Intermediate,Pre,Critical,3.74,18.85
+P061,27,M,TEFL,Upper-Intermediate,Draft,Linguistic,2.66,18.85
+P061,27,M,TEFL,Upper-Intermediate,Draft,Strategic,3.78,18.85
+P061,27,M,TEFL,Upper-Intermediate,Draft,Critical,2.84,18.85
+P061,27,M,TEFL,Upper-Intermediate,Edit,Linguistic,3.7,18.85
+P061,27,M,TEFL,Upper-Intermediate,Edit,Strategic,2.78,18.85
+P061,27,M,TEFL,Upper-Intermediate,Edit,Critical,2.89,18.85
+P062,25,F,English Literature,Upper-Intermediate,Pre,Linguistic,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Pre,Strategic,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Pre,Critical,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Draft,Linguistic,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Draft,Strategic,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Draft,Critical,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Edit,Linguistic,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Edit,Strategic,5.0,20.0
+P062,25,F,English Literature,Upper-Intermediate,Edit,Critical,4.44,20.0
+P063,21,M,Translation Studies,Advanced,Pre,Linguistic,2.56,18.04
+P063,21,M,Translation Studies,Advanced,Pre,Strategic,3.33,18.04
+P063,21,M,Translation Studies,Advanced,Pre,Critical,2.24,18.04
+P063,21,M,Translation Studies,Advanced,Draft,Linguistic,2.71,18.04
+P063,21,M,Translation Studies,Advanced,Draft,Strategic,2.62,18.04
+P063,21,M,Translation Studies,Advanced,Draft,Critical,2.89,18.04
+P063,21,M,Translation Studies,Advanced,Edit,Linguistic,3.05,18.04
+P063,21,M,Translation Studies,Advanced,Edit,Strategic,2.41,18.04
+P063,21,M,Translation Studies,Advanced,Edit,Critical,3.27,18.04
+P064,28,F,Translation Studies,Intermediate,Pre,Linguistic,2.31,16.58
+P064,28,F,Translation Studies,Intermediate,Pre,Strategic,2.35,16.58
+P064,28,F,Translation Studies,Intermediate,Pre,Critical,2.48,16.58
+P064,28,F,Translation Studies,Intermediate,Draft,Linguistic,2.84,16.58
+P064,28,F,Translation Studies,Intermediate,Draft,Strategic,1.81,16.58
+P064,28,F,Translation Studies,Intermediate,Draft,Critical,1.78,16.58
+P064,28,F,Translation Studies,Intermediate,Edit,Linguistic,1.82,16.58
+P064,28,F,Translation Studies,Intermediate,Edit,Strategic,2.51,16.58
+P064,28,F,Translation Studies,Intermediate,Edit,Critical,2.99,16.58
+P065,27,M,TEFL,Upper-Intermediate,Pre,Linguistic,1.79,17.1
+P065,27,M,TEFL,Upper-Intermediate,Pre,Strategic,2.02,17.1
+P065,27,M,TEFL,Upper-Intermediate,Pre,Critical,1.84,17.1
+P065,27,M,TEFL,Upper-Intermediate,Draft,Linguistic,2.52,17.1
+P065,27,M,TEFL,Upper-Intermediate,Draft,Strategic,1.66,17.1
+P065,27,M,TEFL,Upper-Intermediate,Draft,Critical,1.57,17.1
+P065,27,M,TEFL,Upper-Intermediate,Edit,Linguistic,2.24,17.1
+P065,27,M,TEFL,Upper-Intermediate,Edit,Strategic,1.23,17.1
+P065,27,M,TEFL,Upper-Intermediate,Edit,Critical,2.19,17.1
+P066,19,M,Translation Studies,Intermediate,Pre,Linguistic,3.3,20.0
+P066,19,M,Translation Studies,Intermediate,Pre,Strategic,2.77,20.0
+P066,19,M,Translation Studies,Intermediate,Pre,Critical,3.45,20.0
+P066,19,M,Translation Studies,Intermediate,Draft,Linguistic,2.87,20.0
+P066,19,M,Translation Studies,Intermediate,Draft,Strategic,3.04,20.0
+P066,19,M,Translation Studies,Intermediate,Draft,Critical,3.61,20.0
+P066,19,M,Translation Studies,Intermediate,Edit,Linguistic,3.69,20.0
+P066,19,M,Translation Studies,Intermediate,Edit,Strategic,3.1,20.0
+P066,19,M,Translation Studies,Intermediate,Edit,Critical,3.91,20.0
+P067,24,F,English Literature,Intermediate,Pre,Linguistic,4.2,19.51
+P067,24,F,English Literature,Intermediate,Pre,Strategic,3.93,19.51
+P067,24,F,English Literature,Intermediate,Pre,Critical,4.42,19.51
+P067,24,F,English Literature,Intermediate,Draft,Linguistic,4.08,19.51
+P067,24,F,English Literature,Intermediate,Draft,Strategic,4.28,19.51
+P067,24,F,English Literature,Intermediate,Draft,Critical,5.0,19.51
+P067,24,F,English Literature,Intermediate,Edit,Linguistic,4.28,19.51
+P067,24,F,English Literature,Intermediate,Edit,Strategic,4.57,19.51
+P067,24,F,English Literature,Intermediate,Edit,Critical,4.25,19.51
+P068,21,F,TEFL,Advanced,Pre,Linguistic,3.66,20.0
+P068,21,F,TEFL,Advanced,Pre,Strategic,3.8,20.0
+P068,21,F,TEFL,Advanced,Pre,Critical,2.93,20.0
+P068,21,F,TEFL,Advanced,Draft,Linguistic,3.46,20.0
+P068,21,F,TEFL,Advanced,Draft,Strategic,3.97,20.0
+P068,21,F,TEFL,Advanced,Draft,Critical,3.94,20.0
+P068,21,F,TEFL,Advanced,Edit,Linguistic,3.61,20.0
+P068,21,F,TEFL,Advanced,Edit,Strategic,3.95,20.0
+P068,21,F,TEFL,Advanced,Edit,Critical,3.75,20.0
+P069,24,F,English Literature,Advanced,Pre,Linguistic,3.87,20.0
+P069,24,F,English Literature,Advanced,Pre,Strategic,1.85,20.0
+P069,24,F,English Literature,Advanced,Pre,Critical,2.81,20.0
+P069,24,F,English Literature,Advanced,Draft,Linguistic,3.9,20.0
+P069,24,F,English Literature,Advanced,Draft,Strategic,3.91,20.0
+P069,24,F,English Literature,Advanced,Draft,Critical,3.09,20.0
+P069,24,F,English Literature,Advanced,Edit,Linguistic,3.32,20.0
+P069,24,F,English Literature,Advanced,Edit,Strategic,4.36,20.0
+P069,24,F,English Literature,Advanced,Edit,Critical,3.43,20.0
+P070,26,F,TEFL,Advanced,Pre,Linguistic,3.0,18.4
+P070,26,F,TEFL,Advanced,Pre,Strategic,3.44,18.4
+P070,26,F,TEFL,Advanced,Pre,Critical,3.48,18.4
+P070,26,F,TEFL,Advanced,Draft,Linguistic,2.82,18.4
+P070,26,F,TEFL,Advanced,Draft,Strategic,3.37,18.4
+P070,26,F,TEFL,Advanced,Draft,Critical,3.13,18.4
+P070,26,F,TEFL,Advanced,Edit,Linguistic,3.96,18.4
+P070,26,F,TEFL,Advanced,Edit,Strategic,3.52,18.4
+P070,26,F,TEFL,Advanced,Edit,Critical,3.36,18.4
+P071,20,F,TEFL,Upper-Intermediate,Pre,Linguistic,4.19,20.0
+P071,20,F,TEFL,Upper-Intermediate,Pre,Strategic,3.43,20.0
+P071,20,F,TEFL,Upper-Intermediate,Pre,Critical,2.93,20.0
+P071,20,F,TEFL,Upper-Intermediate,Draft,Linguistic,3.86,20.0
+P071,20,F,TEFL,Upper-Intermediate,Draft,Strategic,3.87,20.0
+P071,20,F,TEFL,Upper-Intermediate,Draft,Critical,2.87,20.0
+P071,20,F,TEFL,Upper-Intermediate,Edit,Linguistic,3.75,20.0
+P071,20,F,TEFL,Upper-Intermediate,Edit,Strategic,4.0,20.0
+P071,20,F,TEFL,Upper-Intermediate,Edit,Critical,3.82,20.0
+P072,22,M,TEFL,Advanced,Pre,Linguistic,2.51,18.07
+P072,22,M,TEFL,Advanced,Pre,Strategic,2.42,18.07
+P072,22,M,TEFL,Advanced,Pre,Critical,3.09,18.07
+P072,22,M,TEFL,Advanced,Draft,Linguistic,3.4,18.07
+P072,22,M,TEFL,Advanced,Draft,Strategic,3.55,18.07
+P072,22,M,TEFL,Advanced,Draft,Critical,3.31,18.07
+P072,22,M,TEFL,Advanced,Edit,Linguistic,2.6,18.07
+P072,22,M,TEFL,Advanced,Edit,Strategic,2.83,18.07
+P072,22,M,TEFL,Advanced,Edit,Critical,3.04,18.07
+P073,22,M,English Literature,Intermediate,Pre,Linguistic,3.37,20.0
+P073,22,M,English Literature,Intermediate,Pre,Strategic,3.9,20.0
+P073,22,M,English Literature,Intermediate,Pre,Critical,3.58,20.0
+P073,22,M,English Literature,Intermediate,Draft,Linguistic,3.75,20.0
+P073,22,M,English Literature,Intermediate,Draft,Strategic,3.91,20.0
+P073,22,M,English Literature,Intermediate,Draft,Critical,3.39,20.0
+P073,22,M,English Literature,Intermediate,Edit,Linguistic,3.96,20.0
+P073,22,M,English Literature,Intermediate,Edit,Strategic,3.77,20.0
+P073,22,M,English Literature,Intermediate,Edit,Critical,2.96,20.0
+P074,29,F,TEFL,Upper-Intermediate,Pre,Linguistic,3.23,17.29
+P074,29,F,TEFL,Upper-Intermediate,Pre,Strategic,3.06,17.29
+P074,29,F,TEFL,Upper-Intermediate,Pre,Critical,3.03,17.29
+P074,29,F,TEFL,Upper-Intermediate,Draft,Linguistic,3.51,17.29
+P074,29,F,TEFL,Upper-Intermediate,Draft,Strategic,3.37,17.29
+P074,29,F,TEFL,Upper-Intermediate,Draft,Critical,3.36,17.29
+P074,29,F,TEFL,Upper-Intermediate,Edit,Linguistic,3.4,17.29
+P074,29,F,TEFL,Upper-Intermediate,Edit,Strategic,3.51,17.29
+P074,29,F,TEFL,Upper-Intermediate,Edit,Critical,2.15,17.29
+P075,27,M,Translation Studies,Intermediate,Pre,Linguistic,2.79,18.75
+P075,27,M,Translation Studies,Intermediate,Pre,Strategic,2.29,18.75
+P075,27,M,Translation Studies,Intermediate,Pre,Critical,1.94,18.75
+P075,27,M,Translation Studies,Intermediate,Draft,Linguistic,2.43,18.75
+P075,27,M,Translation Studies,Intermediate,Draft,Strategic,1.93,18.75
+P075,27,M,Translation Studies,Intermediate,Draft,Critical,2.19,18.75
+P075,27,M,Translation Studies,Intermediate,Edit,Linguistic,2.68,18.75
+P075,27,M,Translation Studies,Intermediate,Edit,Strategic,1.91,18.75
+P075,27,M,Translation Studies,Intermediate,Edit,Critical,2.59,18.75
+P076,28,F,English Literature,Upper-Intermediate,Pre,Linguistic,2.55,20.0
+P076,28,F,English Literature,Upper-Intermediate,Pre,Strategic,2.5,20.0
+P076,28,F,English Literature,Upper-Intermediate,Pre,Critical,2.66,20.0
+P076,28,F,English Literature,Upper-Intermediate,Draft,Linguistic,3.2,20.0
+P076,28,F,English Literature,Upper-Intermediate,Draft,Strategic,2.45,20.0
+P076,28,F,English Literature,Upper-Intermediate,Draft,Critical,3.15,20.0
+P076,28,F,English Literature,Upper-Intermediate,Edit,Linguistic,2.31,20.0
+P076,28,F,English Literature,Upper-Intermediate,Edit,Strategic,2.83,20.0
+P076,28,F,English Literature,Upper-Intermediate,Edit,Critical,2.98,20.0
+P077,26,M,Translation Studies,Intermediate,Pre,Linguistic,2.73,18.29
+P077,26,M,Translation Studies,Intermediate,Pre,Strategic,2.9,18.29
+P077,26,M,Translation Studies,Intermediate,Pre,Critical,2.6,18.29
+P077,26,M,Translation Studies,Intermediate,Draft,Linguistic,3.4,18.29
+P077,26,M,Translation Studies,Intermediate,Draft,Strategic,2.45,18.29
+P077,26,M,Translation Studies,Intermediate,Draft,Critical,3.24,18.29
+P077,26,M,Translation Studies,Intermediate,Edit,Linguistic,2.35,18.29
+P077,26,M,Translation Studies,Intermediate,Edit,Strategic,2.64,18.29
+P077,26,M,Translation Studies,Intermediate,Edit,Critical,2.14,18.29
+P078,21,M,Translation Studies,Intermediate,Pre,Linguistic,4.25,19.22
+P078,21,M,Translation Studies,Intermediate,Pre,Strategic,3.57,19.22
+P078,21,M,Translation Studies,Intermediate,Pre,Critical,3.91,19.22
+P078,21,M,Translation Studies,Intermediate,Draft,Linguistic,4.48,19.22
+P078,21,M,Translation Studies,Intermediate,Draft,Strategic,5.0,19.22
+P078,21,M,Translation Studies,Intermediate,Draft,Critical,5.0,19.22
+P078,21,M,Translation Studies,Intermediate,Edit,Linguistic,4.07,19.22
+P078,21,M,Translation Studies,Intermediate,Edit,Strategic,5.0,19.22
+P078,21,M,Translation Studies,Intermediate,Edit,Critical,4.49,19.22
+P079,21,M,Translation Studies,Upper-Intermediate,Pre,Linguistic,3.06,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Pre,Strategic,2.99,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Pre,Critical,4.09,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Draft,Linguistic,3.62,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Draft,Strategic,3.46,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Draft,Critical,3.76,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Edit,Linguistic,4.16,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Edit,Strategic,3.85,20.0
+P079,21,M,Translation Studies,Upper-Intermediate,Edit,Critical,3.43,20.0
+P080,26,M,TEFL,Intermediate,Pre,Linguistic,5.0,20.0
+P080,26,M,TEFL,Intermediate,Pre,Strategic,4.75,20.0
+P080,26,M,TEFL,Intermediate,Pre,Critical,4.75,20.0
+P080,26,M,TEFL,Intermediate,Draft,Linguistic,4.71,20.0
+P080,26,M,TEFL,Intermediate,Draft,Strategic,3.9,20.0
+P080,26,M,TEFL,Intermediate,Draft,Critical,4.8,20.0
+P080,26,M,TEFL,Intermediate,Edit,Linguistic,3.77,20.0
+P080,26,M,TEFL,Intermediate,Edit,Strategic,4.05,20.0
+P080,26,M,TEFL,Intermediate,Edit,Critical,5.0,20.0
+P081,26,F,TEFL,Advanced,Pre,Linguistic,4.44,18.87
+P081,26,F,TEFL,Advanced,Pre,Strategic,4.43,18.87
+P081,26,F,TEFL,Advanced,Pre,Critical,4.96,18.87
+P081,26,F,TEFL,Advanced,Draft,Linguistic,4.21,18.87
+P081,26,F,TEFL,Advanced,Draft,Strategic,4.57,18.87
+P081,26,F,TEFL,Advanced,Draft,Critical,3.9,18.87
+P081,26,F,TEFL,Advanced,Edit,Linguistic,4.62,18.87
+P081,26,F,TEFL,Advanced,Edit,Strategic,4.39,18.87
+P081,26,F,TEFL,Advanced,Edit,Critical,4.02,18.87
+P082,22,M,English Literature,Intermediate,Pre,Linguistic,3.27,18.66
+P082,22,M,English Literature,Intermediate,Pre,Strategic,2.34,18.66
+P082,22,M,English Literature,Intermediate,Pre,Critical,2.94,18.66
+P082,22,M,English Literature,Intermediate,Draft,Linguistic,3.26,18.66
+P082,22,M,English Literature,Intermediate,Draft,Strategic,3.05,18.66
+P082,22,M,English Literature,Intermediate,Draft,Critical,4.08,18.66
+P082,22,M,English Literature,Intermediate,Edit,Linguistic,3.31,18.66
+P082,22,M,English Literature,Intermediate,Edit,Strategic,4.03,18.66
+P082,22,M,English Literature,Intermediate,Edit,Critical,3.42,18.66
+P083,24,F,TEFL,Intermediate,Pre,Linguistic,2.45,20.0
+P083,24,F,TEFL,Intermediate,Pre,Strategic,3.18,20.0
+P083,24,F,TEFL,Intermediate,Pre,Critical,3.45,20.0
+P083,24,F,TEFL,Intermediate,Draft,Linguistic,3.79,20.0
+P083,24,F,TEFL,Intermediate,Draft,Strategic,3.68,20.0
+P083,24,F,TEFL,Intermediate,Draft,Critical,3.25,20.0
+P083,24,F,TEFL,Intermediate,Edit,Linguistic,3.96,20.0
+P083,24,F,TEFL,Intermediate,Edit,Strategic,3.96,20.0
+P083,24,F,TEFL,Intermediate,Edit,Critical,3.54,20.0
+P084,29,F,English Literature,Intermediate,Pre,Linguistic,3.66,16.49
+P084,29,F,English Literature,Intermediate,Pre,Strategic,4.4,16.49
+P084,29,F,English Literature,Intermediate,Pre,Critical,2.44,16.49
+P084,29,F,English Literature,Intermediate,Draft,Linguistic,2.95,16.49
+P084,29,F,English Literature,Intermediate,Draft,Strategic,3.07,16.49
+P084,29,F,English Literature,Intermediate,Draft,Critical,3.48,16.49
+P084,29,F,English Literature,Intermediate,Edit,Linguistic,3.54,16.49
+P084,29,F,English Literature,Intermediate,Edit,Strategic,2.91,16.49
+P084,29,F,English Literature,Intermediate,Edit,Critical,3.17,16.49
+P085,23,F,TEFL,Intermediate,Pre,Linguistic,4.4,20.0
+P085,23,F,TEFL,Intermediate,Pre,Strategic,4.02,20.0
+P085,23,F,TEFL,Intermediate,Pre,Critical,4.92,20.0
+P085,23,F,TEFL,Intermediate,Draft,Linguistic,4.48,20.0
+P085,23,F,TEFL,Intermediate,Draft,Strategic,4.93,20.0
+P085,23,F,TEFL,Intermediate,Draft,Critical,4.17,20.0
+P085,23,F,TEFL,Intermediate,Edit,Linguistic,4.59,20.0
+P085,23,F,TEFL,Intermediate,Edit,Strategic,5.0,20.0
+P085,23,F,TEFL,Intermediate,Edit,Critical,5.0,20.0
+P086,23,M,English Literature,Intermediate,Pre,Linguistic,2.7,19.59
+P086,23,M,English Literature,Intermediate,Pre,Strategic,2.02,19.59
+P086,23,M,English Literature,Intermediate,Pre,Critical,2.55,19.59
+P086,23,M,English Literature,Intermediate,Draft,Linguistic,2.89,19.59
+P086,23,M,English Literature,Intermediate,Draft,Strategic,3.01,19.59
+P086,23,M,English Literature,Intermediate,Draft,Critical,2.64,19.59
+P086,23,M,English Literature,Intermediate,Edit,Linguistic,3.47,19.59
+P086,23,M,English Literature,Intermediate,Edit,Strategic,3.21,19.59
+P086,23,M,English Literature,Intermediate,Edit,Critical,2.58,19.59
+P087,24,F,English Literature,Upper-Intermediate,Pre,Linguistic,5.0,17.56
+P087,24,F,English Literature,Upper-Intermediate,Pre,Strategic,4.13,17.56
+P087,24,F,English Literature,Upper-Intermediate,Pre,Critical,4.0,17.56
+P087,24,F,English Literature,Upper-Intermediate,Draft,Linguistic,4.42,17.56
+P087,24,F,English Literature,Upper-Intermediate,Draft,Strategic,4.87,17.56
+P087,24,F,English Literature,Upper-Intermediate,Draft,Critical,4.61,17.56
+P087,24,F,English Literature,Upper-Intermediate,Edit,Linguistic,4.33,17.56
+P087,24,F,English Literature,Upper-Intermediate,Edit,Strategic,4.32,17.56
+P087,24,F,English Literature,Upper-Intermediate,Edit,Critical,4.3,17.56
+P088,22,M,Translation Studies,Intermediate,Pre,Linguistic,4.78,20.0
+P088,22,M,Translation Studies,Intermediate,Pre,Strategic,4.51,20.0
+P088,22,M,Translation Studies,Intermediate,Pre,Critical,3.54,20.0
+P088,22,M,Translation Studies,Intermediate,Draft,Linguistic,4.18,20.0
+P088,22,M,Translation Studies,Intermediate,Draft,Strategic,3.96,20.0
+P088,22,M,Translation Studies,Intermediate,Draft,Critical,3.74,20.0
+P088,22,M,Translation Studies,Intermediate,Edit,Linguistic,4.27,20.0
+P088,22,M,Translation Studies,Intermediate,Edit,Strategic,5.0,20.0
+P088,22,M,Translation Studies,Intermediate,Edit,Critical,4.85,20.0
+P089,20,F,TEFL,Upper-Intermediate,Pre,Linguistic,4.11,17.03
+P089,20,F,TEFL,Upper-Intermediate,Pre,Strategic,3.46,17.03
+P089,20,F,TEFL,Upper-Intermediate,Pre,Critical,4.03,17.03
+P089,20,F,TEFL,Upper-Intermediate,Draft,Linguistic,4.03,17.03
+P089,20,F,TEFL,Upper-Intermediate,Draft,Strategic,3.47,17.03
+P089,20,F,TEFL,Upper-Intermediate,Draft,Critical,3.19,17.03
+P089,20,F,TEFL,Upper-Intermediate,Edit,Linguistic,3.15,17.03
+P089,20,F,TEFL,Upper-Intermediate,Edit,Strategic,3.79,17.03
+P089,20,F,TEFL,Upper-Intermediate,Edit,Critical,3.91,17.03
+P090,26,F,Translation Studies,Intermediate,Pre,Linguistic,4.15,15.0
+P090,26,F,Translation Studies,Intermediate,Pre,Strategic,3.02,15.0
+P090,26,F,Translation Studies,Intermediate,Pre,Critical,4.36,15.0
+P090,26,F,Translation Studies,Intermediate,Draft,Linguistic,3.25,15.0
+P090,26,F,Translation Studies,Intermediate,Draft,Strategic,4.04,15.0
+P090,26,F,Translation Studies,Intermediate,Draft,Critical,3.55,15.0
+P090,26,F,Translation Studies,Intermediate,Edit,Linguistic,3.31,15.0
+P090,26,F,Translation Studies,Intermediate,Edit,Strategic,2.61,15.0
+P090,26,F,Translation Studies,Intermediate,Edit,Critical,3.43,15.0
+P091,29,F,English Literature,Upper-Intermediate,Pre,Linguistic,3.72,18.51
+P091,29,F,English Literature,Upper-Intermediate,Pre,Strategic,3.77,18.51
+P091,29,F,English Literature,Upper-Intermediate,Pre,Critical,4.47,18.51
+P091,29,F,English Literature,Upper-Intermediate,Draft,Linguistic,4.06,18.51
+P091,29,F,English Literature,Upper-Intermediate,Draft,Strategic,4.95,18.51
+P091,29,F,English Literature,Upper-Intermediate,Draft,Critical,3.84,18.51
+P091,29,F,English Literature,Upper-Intermediate,Edit,Linguistic,4.58,18.51
+P091,29,F,English Literature,Upper-Intermediate,Edit,Strategic,4.13,18.51
+P091,29,F,English Literature,Upper-Intermediate,Edit,Critical,4.48,18.51
+P092,24,M,Translation Studies,Advanced,Pre,Linguistic,3.8,20.0
+P092,24,M,Translation Studies,Advanced,Pre,Strategic,3.77,20.0
+P092,24,M,Translation Studies,Advanced,Pre,Critical,4.24,20.0
+P092,24,M,Translation Studies,Advanced,Draft,Linguistic,4.19,20.0
+P092,24,M,Translation Studies,Advanced,Draft,Strategic,3.28,20.0
+P092,24,M,Translation Studies,Advanced,Draft,Critical,3.66,20.0
+P092,24,M,Translation Studies,Advanced,Edit,Linguistic,3.16,20.0
+P092,24,M,Translation Studies,Advanced,Edit,Strategic,3.48,20.0
+P092,24,M,Translation Studies,Advanced,Edit,Critical,3.17,20.0
+P093,19,M,Translation Studies,Advanced,Pre,Linguistic,2.71,18.34
+P093,19,M,Translation Studies,Advanced,Pre,Strategic,4.12,18.34
+P093,19,M,Translation Studies,Advanced,Pre,Critical,3.75,18.34
+P093,19,M,Translation Studies,Advanced,Draft,Linguistic,3.84,18.34
+P093,19,M,Translation Studies,Advanced,Draft,Strategic,3.06,18.34
+P093,19,M,Translation Studies,Advanced,Draft,Critical,3.71,18.34
+P093,19,M,Translation Studies,Advanced,Edit,Linguistic,4.72,18.34
+P093,19,M,Translation Studies,Advanced,Edit,Strategic,4.13,18.34
+P093,19,M,Translation Studies,Advanced,Edit,Critical,3.8,18.34
+P094,20,F,English Literature,Advanced,Pre,Linguistic,2.48,13.49
+P094,20,F,English Literature,Advanced,Pre,Strategic,2.93,13.49
+P094,20,F,English Literature,Advanced,Pre,Critical,2.68,13.49
+P094,20,F,English Literature,Advanced,Draft,Linguistic,2.78,13.49
+P094,20,F,English Literature,Advanced,Draft,Strategic,3.29,13.49
+P094,20,F,English Literature,Advanced,Draft,Critical,2.22,13.49
+P094,20,F,English Literature,Advanced,Edit,Linguistic,3.57,13.49
+P094,20,F,English Literature,Advanced,Edit,Strategic,3.64,13.49
+P094,20,F,English Literature,Advanced,Edit,Critical,3.14,13.49
+P095,29,F,English Literature,Upper-Intermediate,Pre,Linguistic,2.31,20.0
+P095,29,F,English Literature,Upper-Intermediate,Pre,Strategic,3.3,20.0
+P095,29,F,English Literature,Upper-Intermediate,Pre,Critical,2.56,20.0
+P095,29,F,English Literature,Upper-Intermediate,Draft,Linguistic,3.1,20.0
+P095,29,F,English Literature,Upper-Intermediate,Draft,Strategic,3.18,20.0
+P095,29,F,English Literature,Upper-Intermediate,Draft,Critical,3.82,20.0
+P095,29,F,English Literature,Upper-Intermediate,Edit,Linguistic,2.8,20.0
+P095,29,F,English Literature,Upper-Intermediate,Edit,Strategic,3.09,20.0
+P095,29,F,English Literature,Upper-Intermediate,Edit,Critical,2.16,20.0
+P096,25,F,TEFL,Upper-Intermediate,Pre,Linguistic,3.16,18.24
+P096,25,F,TEFL,Upper-Intermediate,Pre,Strategic,3.53,18.24
+P096,25,F,TEFL,Upper-Intermediate,Pre,Critical,3.19,18.24
+P096,25,F,TEFL,Upper-Intermediate,Draft,Linguistic,2.25,18.24
+P096,25,F,TEFL,Upper-Intermediate,Draft,Strategic,2.98,18.24
+P096,25,F,TEFL,Upper-Intermediate,Draft,Critical,3.41,18.24
+P096,25,F,TEFL,Upper-Intermediate,Edit,Linguistic,2.1,18.24
+P096,25,F,TEFL,Upper-Intermediate,Edit,Strategic,2.51,18.24
+P096,25,F,TEFL,Upper-Intermediate,Edit,Critical,3.48,18.24
+P097,23,F,TEFL,Upper-Intermediate,Pre,Linguistic,5.0,17.55
+P097,23,F,TEFL,Upper-Intermediate,Pre,Strategic,3.64,17.55
+P097,23,F,TEFL,Upper-Intermediate,Pre,Critical,3.35,17.55
+P097,23,F,TEFL,Upper-Intermediate,Draft,Linguistic,3.96,17.55
+P097,23,F,TEFL,Upper-Intermediate,Draft,Strategic,3.97,17.55
+P097,23,F,TEFL,Upper-Intermediate,Draft,Critical,3.48,17.55
+P097,23,F,TEFL,Upper-Intermediate,Edit,Linguistic,3.23,17.55
+P097,23,F,TEFL,Upper-Intermediate,Edit,Strategic,4.9,17.55
+P097,23,F,TEFL,Upper-Intermediate,Edit,Critical,3.91,17.55
+P098,24,F,TEFL,Advanced,Pre,Linguistic,3.4,20.0
+P098,24,F,TEFL,Advanced,Pre,Strategic,4.23,20.0
+P098,24,F,TEFL,Advanced,Pre,Critical,5.0,20.0
+P098,24,F,TEFL,Advanced,Draft,Linguistic,4.28,20.0
+P098,24,F,TEFL,Advanced,Draft,Strategic,3.86,20.0
+P098,24,F,TEFL,Advanced,Draft,Critical,3.8,20.0
+P098,24,F,TEFL,Advanced,Edit,Linguistic,3.84,20.0
+P098,24,F,TEFL,Advanced,Edit,Strategic,3.92,20.0
+P098,24,F,TEFL,Advanced,Edit,Critical,3.86,20.0
+P099,22,F,Translation Studies,Intermediate,Pre,Linguistic,1.9,17.99
+P099,22,F,Translation Studies,Intermediate,Pre,Strategic,3.12,17.99
+P099,22,F,Translation Studies,Intermediate,Pre,Critical,3.08,17.99
+P099,22,F,Translation Studies,Intermediate,Draft,Linguistic,2.94,17.99
+P099,22,F,Translation Studies,Intermediate,Draft,Strategic,1.7,17.99
+P099,22,F,Translation Studies,Intermediate,Draft,Critical,2.87,17.99
+P099,22,F,Translation Studies,Intermediate,Edit,Linguistic,2.66,17.99
+P099,22,F,Translation Studies,Intermediate,Edit,Strategic,1.66,17.99
+P099,22,F,Translation Studies,Intermediate,Edit,Critical,2.45,17.99
+P100,23,M,English Literature,Advanced,Pre,Linguistic,4.45,17.09
+P100,23,M,English Literature,Advanced,Pre,Strategic,2.4,17.09
+P100,23,M,English Literature,Advanced,Pre,Critical,3.67,17.09
+P100,23,M,English Literature,Advanced,Draft,Linguistic,3.75,17.09
+P100,23,M,English Literature,Advanced,Draft,Strategic,2.96,17.09
+P100,23,M,English Literature,Advanced,Draft,Critical,3.88,17.09
+P100,23,M,English Literature,Advanced,Edit,Linguistic,4.46,17.09
+P100,23,M,English Literature,Advanced,Edit,Strategic,3.29,17.09
+P100,23,M,English Literature,Advanced,Edit,Critical,4.0,17.09
